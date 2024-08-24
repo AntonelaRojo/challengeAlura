@@ -65,5 +65,4 @@ function Copiar(){
     AreaDeMensaje.select();
     document.execCommand('copy');
 
-
 }
